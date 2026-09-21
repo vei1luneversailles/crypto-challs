@@ -1,0 +1,2 @@
+ciphertext_hex = 740777ba6bb7b5d017a6f0b173c6a6ca25ea197ab7f6ad426b2d4a311a3c5d4bf3e53abe50
+generated_near_unix_time = 1789963800  # +- 600 detik
