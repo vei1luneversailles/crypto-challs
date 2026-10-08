@@ -40,7 +40,7 @@ crypto-ctf/
 ├── 01-caesar-plus/
 │   ├── README.md
 │   ├── chall.py
-│   ├── gen.py        (opsional, jangan publish kalau mau flag rahasia)
+│   ├── gen.py        
 │   └── output.txt
 ├── 02-xor-repeat/
 │   ├── README.md
@@ -55,7 +55,7 @@ crypto-ctf/
 │   ├── README.md
 │   ├── gen.py
 │   └── output.txt
-└── solutions/         (spoiler, hapus/private-kan sebelum dipakai CTF beneran)
+└── solutions/        
     ├── solve_01_caesar_plus.py
     ├── solve_02_xor_repeat.py
     ├── solve_03_small_rsa.py
